@@ -1,5 +1,4 @@
 Variable_name Variable_meaning
-activity	Average_activity
 tBodyAcc-mean()-X	Average_tBodyAcc-mean()-X
 tBodyAcc-mean()-Y	Average_tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z	Average_tBodyAcc-mean()-Z
