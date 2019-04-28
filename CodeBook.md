@@ -1,4 +1,7 @@
-Variable_name Variable_meaning
+Variable name	Variable meaning
+subject_id	subject identifier (1~30)
+activity	kinds of activity
+activity	Average_activity
 tBodyAcc-mean()-X	Average_tBodyAcc-mean()-X
 tBodyAcc-mean()-Y	Average_tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z	Average_tBodyAcc-mean()-Z
@@ -78,3 +81,5 @@ fBodyBodyGyroMag-meanFreq()	Average_fBodyBodyGyroMag-meanFreq()
 fBodyBodyGyroJerkMag-mean()	Average_fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()	Average_fBodyBodyGyroJerkMag-std()
 fBodyBodyGyroJerkMag-meanFreq()	Average_fBodyBodyGyroJerkMag-meanFreq()
+	
+
